@@ -1,0 +1,6 @@
+{
+  "name": "Stretched String Sonometer & Organ Pipe Air Column Studio",
+  "description": "Interactive physics laboratory for Mersenne's stretched string laws, open and closed organ pipe harmonics, Rayleigh end correction, and water-column resonance tubes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
